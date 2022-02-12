@@ -1,0 +1,18 @@
+{
+  "letters": [
+    {
+      "id": 1,
+      "author": "Mark Twain",
+      "letter": "This is my first letter, test.",
+      "topic": "Friendly",
+      "recipient": "Stephen King"
+    },
+    {
+      "author": "J.D. Salinger",
+      "letter": "Test letter",
+      "topic": "Condolences",
+      "recipient": "Mark Twain",
+      "id": 2
+    }
+  ]
+}

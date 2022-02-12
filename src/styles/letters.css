@@ -1,0 +1,44 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+}
+
+.topics {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    padding: 15px;
+}
+
+.topics label {
+    font-size: 0.9rem;
+}
+
+.letters {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+}
+
+.letterTopic {
+    display: inline;
+    border: 3px ridge rgb(193, 193, 255);
+    background-color: #afccf8
+}
+
+.letter__delete {
+    margin-top: 5px;
+}
+
+.letterInfo {
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.serviceLetters {
+    background-color: #97ffff;
+    width: 50%;
+}
